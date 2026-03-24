@@ -43,4 +43,4 @@ visually and intuitively.
 
 ## 👨‍💻 Author
 
-Your Name
+Sidhant Sahni
