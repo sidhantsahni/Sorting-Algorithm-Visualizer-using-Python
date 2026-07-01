@@ -10,18 +10,18 @@ animated bar graphs.
 
 -   Real-time visualization of sorting algorithms\
 -   Supports:
-    -   Bubble Sort\
-    -   Selection Sort\
-    -   Insertion Sort\
-    -   Merge Sort\
-    -   Quick Sort\
--   Random array generation\
+    -   Bubble Sort
+    -   Selection Sort
+    -   Insertion Sort
+    -   Merge Sort
+    -   Quick Sort
+-   Random array generation
 -   Smooth animations using Matplotlib
 
 ## 🛠 Technologies Used
 
--   Python\
--   Matplotlib\
+-   Python
+-   Matplotlib
 -   Random module
 
 ## ▶️ How to Run
@@ -37,8 +37,8 @@ visually and intuitively.
 
 ## 🔮 Future Improvements
 
--   Add more sorting algorithms\
--   GUI using Streamlit or Tkinter\
+-   Add more sorting algorithms
+-   GUI using Streamlit or Tkinter
 -   Speed control for animations
 
 ## 👨‍💻 Author
